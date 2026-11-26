@@ -1,0 +1,23 @@
+twoj-projekt/
+├── AGENTS.md                    # Konstytucja projektu (najważniejszy plik)
+├── .grok/
+│   ├── config.toml
+│   └── skills/
+│       ├── core/                # Fundamentalne, zawsze aktywne umiejętności
+│       │   ├── architecture-guardian/
+│       │   ├── quality-enforcer/
+│       │   ├── security-auditor/
+│       │   └── refactoring-strategist/
+│       ├── process/             # Definiują procesy i workflowy
+│       │   ├── feature-development/
+│       │   ├── code-review/
+│       │   └── technical-debt/
+│       ├── domain/              # Wiedza specyficzna dla Twojego stacka/domeny
+│       │   ├── backend/
+│       │   ├── frontend/
+│       │   └── data/
+│       └── meta/                # Umiejętność ulepszania samego systemu
+│           └── system-evolver/
+├── docs/
+│   └── architecture/
+└── ...
